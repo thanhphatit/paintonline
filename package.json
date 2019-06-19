@@ -1,7 +1,7 @@
 {
-  "name": "miniPaint",
+  "name": "Paint Online",
   "version": "4.2.2",
-  "author": "Vilius L.",
+  "author": "ThanhPhatIT",
   "description": "Online graphics editing tool lets create, edit images using HTML5 technologies.",
   "keywords": [
     "canvas",

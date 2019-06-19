@@ -18,7 +18,7 @@ class Help_about_class {
 				{title: "Name:", html: '<span class="about-name">Paint Online</span>'},
 				{title: "Version:", value: VERSION},
 				{title: "Description:", value: "Online Image Editor."},
-				{title: "Author:", value: 'ThanhPhatIT'},
+				{title: "Author:", value: 'ThanhPhat IT'},
 				{title: "Email:", html: '<a href="mailto:' + email + '">' + email + '</a>'},
 				{title: "GitHub:", html: '<a href="https://github.com/thanhphatit">https://github.com/thanhphatit</a>'},
 				{title: "Website:", html: '<a href="https://www.itblognote.com/">https://www.itblognote.com/</a>'},

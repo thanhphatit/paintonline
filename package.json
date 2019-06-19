@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/viliusle/miniPaint"
+    "url": "https://github.com/thanhphatit/paintonline"
   },
-  "homepage": "https://github.com/viliusle/miniPaint",
+  "homepage": "https://github.com/thanhphatit/paintonline",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
@@ -39,7 +39,7 @@
     "exif-js": "^2.3.0",
     "file-saver": "^1.3.3",
     "gif.js.optimized": "^1.0.1",
-    "hermite-resize": "git+https://github.com/viliusle/Hermite-resize.git",
+    "hermite-resize": "git+https://github.com/thanhphatit/Hermite-resize.git",
     "jquery": "^3.4.1",
     "pica": "^5.0.0",
     "spectrum-colorpicker": "^1.8.0",

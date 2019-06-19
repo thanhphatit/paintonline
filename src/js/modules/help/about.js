@@ -26,5 +26,4 @@ class Help_about_class {
 		this.POP.show(settings);
 	}
 }
-
 export default Help_about_class;

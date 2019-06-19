@@ -1,7 +1,3 @@
-/*
- * miniPaint - https://github.com/viliusle/miniPaint
- * author: Vilius L.
- */
 
 import config from './../config.js';
 import GUI_tools_class from './gui/gui-tools.js';

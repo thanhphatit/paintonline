@@ -9,19 +9,19 @@ class Help_about_class {
 
 	//about
 	about() {
-		var email = 'www.viliusl@gmail.com';	
+		var email = 'itblognote@gmail.com';	
 		
 		var settings = {
 			title: 'About',
 			params: [
 				{title: "", html: '<img style="height:64px;" class="about-logo" alt="" src="images/logo-colors.png" />'},
-				{title: "Name:", html: '<span class="about-name">miniPaint</span>'},
+				{title: "Name:", html: '<span class="about-name">Paint Online</span>'},
 				{title: "Version:", value: VERSION},
-				{title: "Description:", value: "Online image editor."},
-				{title: "Author:", value: 'ViliusL'},
+				{title: "Description:", value: "Online Image Editor."},
+				{title: "Author:", value: 'ThanhPhatIT'},
 				{title: "Email:", html: '<a href="mailto:' + email + '">' + email + '</a>'},
-				{title: "GitHub:", html: '<a href="https://github.com/viliusle/miniPaint">https://github.com/viliusle/miniPaint</a>'},
-				{title: "Website:", html: '<a href="https://viliusle.github.io/miniPaint/">https://viliusle.github.io/miniPaint/</a>'},
+				{title: "GitHub:", html: '<a href="https://github.com/thanhphatit">https://github.com/thanhphatit</a>'},
+				{title: "Website:", html: '<a href="https://www.itblognote.com/">https://www.itblognote.com/</a>'},
 			],
 		};
 		this.POP.show(settings);

@@ -192,7 +192,7 @@ var menu_template = `
 					</ul>
 				</li>
 				<li><div class="mid-line"></div></li>
-				<li><a class="trn dots" data-target="help/about.about" href="#">About</a></li>
+				
 			</ul>
 		</li>
 	</ul>

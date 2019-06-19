@@ -192,7 +192,6 @@ var menu_template = `
 					</ul>
 				</li>
 				<li><div class="mid-line"></div></li>
-				
 			</ul>
 		</li>
 	</ul>

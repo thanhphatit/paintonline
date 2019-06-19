@@ -1,8 +1,3 @@
-/**
- * various helpers
- * 
- * @author ViliusL
- */
 class Helper_class {
 
 	constructor() {

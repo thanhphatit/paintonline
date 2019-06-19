@@ -18,8 +18,8 @@ class Help_about_class {
 				{title: "Version:", value: VERSION},
 				{title: "Description:", value: "Online Image Editor."},
 				{title: "Author:", value: 'ThanhPhat IT'},
-				{title: "Email:", html: '<a href="mailto:itblognote@gmail.com">itblognote@gmail.com</a>'},
-				{title: "GitHub:", html: '<a href="https://github.com/thanhphatit">https://github.com/thanhphatit</a>'},
+				{title: "Email:", html: '<a href="'+email+'">'+email+'</a>'},
+				{title: "GitHub:", html: '<a href="https://github.com/thanhphatit">https://github.com/thanhphatit Chao</a>'},
 				{title: "Website:", html: '<a href="https://www.itblognote.com/">https://www.itblognote.com/</a>'},
 			],
 		};
